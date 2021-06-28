@@ -1,0 +1,11 @@
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/JobProcess.Data.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/JobProcess.Data.pdb
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/JobProcess.Domain.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/Newtonsoft.Json.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/JobProcess.Domain.pdb
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/bin/Debug/Newtonsoft.Json.xml
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/obj/Debug/JobProcess.Data.csproj.AssemblyReference.cache
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/obj/Debug/JobProcess.Data.csproj.CoreCompileInputs.cache
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/obj/Debug/JobProcess.Data.csproj.CopyComplete
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/obj/Debug/JobProcess.Data.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Data/obj/Debug/JobProcess.Data.pdb

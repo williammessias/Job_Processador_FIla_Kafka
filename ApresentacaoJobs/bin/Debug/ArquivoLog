@@ -1,0 +1,45 @@
+
+Log Entrada : 17:34:20 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:34:19 mensagem: Erro no processamento - Arquivos não encontrados na pastaCould not find file "/Users/williammessias/Projects/JobProcess/ApresentacaoJobs/bin/DebugdiretorioArquivo\DadosMoeda.csv" Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 0,4192852
+------------------------------------
+
+Log Entrada : 17:34:58 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:34:36 mensagem: Erro no processamento - Arquivos não encontrados na pastaCould not find file "/Users/williammessias/Projects/JobProcess/ApresentacaoJobs/bin/DebugdiretorioArquivo\DadosMoeda.csv" Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 1,976888
+------------------------------------
+
+Log Entrada : 17:40:34 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:40:29 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 17:42:13 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:42:08 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 17:43:55 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:43:44 mensagem: Erro no processamento - Arquivos não encontrados na pastaThe remote server returned an error: (500) Internal Server Error. Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 43,1922386
+------------------------------------
+
+Log Entrada : 17:44:23 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:44:19 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 17:45:25 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:45:23 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 17:46:43 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:46:40 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 17:46:43 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 17:46:40 mensagem: Erro no processamento - Arquivos não encontrados na pastaIndex was outside the bounds of the array. Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 38,7893343
+------------------------------------

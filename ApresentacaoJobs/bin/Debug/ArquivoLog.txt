@@ -1,0 +1,50 @@
+
+Log Entrada : 22:28:13 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:28:13 mensagem: Erro no processamento - Arquivos não encontrados na pastaException has been thrown by the target of an invocation. Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 160,6853683
+------------------------------------
+
+Log Entrada : 22:31:15 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:31:15 mensagem: Erro no processamento - Arquivos não encontrados na pastaException has been thrown by the target of an invocation. Status de finalização da rotina: ProcessadaComErro tempo gasto no processamento: 169,9542177
+------------------------------------
+
+Log Entrada : 22:35:48 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:35:48 mensagem: Processada com sucesso Status de finalização da rotina: ProcessadaComSucesso tempo gasto no processamento: 180,578893
+------------------------------------
+
+Log Entrada : 22:40:13 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:38:59 mensagem: Processada com sucesso Status de finalização da rotina: ProcessadaComSucesso tempo gasto no processamento: 178,9897329
+------------------------------------
+
+Log Entrada : 22:43:14 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:43:14 mensagem: Processada com sucesso Status de finalização da rotina: ProcessadaComSucesso tempo gasto no processamento: 168,8807886
+------------------------------------
+
+Log Entrada : 22:44:02 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:44:02 mensagem: Não foi encontrada nenhuma moeda na plailha csv para os periodos encontrados Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 7,624674
+------------------------------------
+
+Log Entrada : 22:54:49 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 22:54:48 mensagem: Não existe nada na fila para processamento Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 
+------------------------------------
+
+Log Entrada : 23:02:24 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 23:02:24 mensagem: Processada com sucesso Status de finalização da rotina: ProcessadaComSucesso tempo gasto no processamento: 335,3130197
+------------------------------------
+
+Log Entrada : 23:03:08 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 23:03:08 mensagem: Não foram encontradas cotações para os periodos informados Status de finalização da rotina: NadaParaProcessar tempo gasto no processamento: 9,0981032
+------------------------------------
+
+Log Entrada : 23:03:08 domingo, 27 de junho de 2021
+  :
+  :Inicio do processamento: 27/06/2021 23:03:08 mensagem: Processada com sucesso Status de finalização da rotina: ProcessadaComSucesso tempo gasto no processamento: 9,0981032
+------------------------------------

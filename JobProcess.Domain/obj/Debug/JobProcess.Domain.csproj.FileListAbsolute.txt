@@ -1,0 +1,5 @@
+/Users/williammessias/Projects/JobProcess/JobProcess.Domain/bin/Debug/JobProcess.Domain.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Domain/bin/Debug/JobProcess.Domain.pdb
+/Users/williammessias/Projects/JobProcess/JobProcess.Domain/obj/Debug/JobProcess.Domain.csproj.CoreCompileInputs.cache
+/Users/williammessias/Projects/JobProcess/JobProcess.Domain/obj/Debug/JobProcess.Domain.dll
+/Users/williammessias/Projects/JobProcess/JobProcess.Domain/obj/Debug/JobProcess.Domain.pdb
